@@ -1,0 +1,12 @@
+
+
+INFORMACION DE LOS MEDICOS:   	Nombre: david / Identificacion: 4323
+
+INFORMACION DE LOS MEDICOS:   	Nombre: cabarcas / Identificacion: 2323
+
+INFORMACION DE LOS MEDICOS:   	Nombre: andres / Identificacion: 234
+
+INFORMACION DE LOS MEDICOS:   	Nombre: dasdas / Identificacion: 2423
+
+INFORMACION DE LOS MEDICOS:   	Nombre: asfas / Identificacion: 2343
+
